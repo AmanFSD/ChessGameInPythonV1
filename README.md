@@ -1,4 +1,4 @@
-# Chess Test Code Repository
+# Chess Game In Python Repository
 
 This repository contains the test code for a chess game implementation in Python. The code includes classes representing different chess pieces, a board, and the game logic.
 
